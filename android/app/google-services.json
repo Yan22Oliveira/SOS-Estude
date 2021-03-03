@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "295090198743",
+    "project_id": "sos-estude",
+    "storage_bucket": "sos-estude.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:295090198743:android:a9d5c14e1b8ad61fc33892",
+        "android_client_info": {
+          "package_name": "com.radtecnologia.sos_estude"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "295090198743-rs3li9c829dbva2bmq53ev02pgpoq9v4.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.radtecnologia.sos_estude",
+            "certificate_hash": "583718518e1181d03ae8fd8966deb25e1aa24cd8"
+          }
+        },
+        {
+          "client_id": "295090198743-976cl3pnpqem78b2e2g1irmulk5vgj14.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD-EwekjA5qr4AKMFLHDVme-hcjNjSCLLs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "295090198743-976cl3pnpqem78b2e2g1irmulk5vgj14.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
